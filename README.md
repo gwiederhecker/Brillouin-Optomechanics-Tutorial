@@ -1,4 +1,4 @@
-# Brillouin-Optomechanics
+# Brillouin-Optomechanics-Tutorial
 Data and simulations files for the tutorial article "Brillouin optomechanics in nanophotonic structures".
 Published in APL Photonics Special issue "Optoacoustics—Advances in high-frequency optomechanics and Brillouin scattering" - DOI: 10.1063/1.5088169
 Gustavo Wiederhecker (1,2)
