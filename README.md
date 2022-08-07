@@ -1,5 +1,9 @@
 # Brillouin-Optomechanics-Tutorial
+This repository was created to share the slides I presented at the [https://indico.mpl.mpg.de/event/13/page/20-4th-workshop-on-optomechanics-and-brillouin-scattering]( 4th WOMBAT (Workshop on Brillouin and Optomechanics)), held at the Max Planck Institute for the Science of Ligh in Erlangen, Germany.
+
+
 Data and simulations files for the tutorial article "Brillouin optomechanics in nanophotonic structures".
+Check out the Zenodo repository: [http://www.doi.org/10.5281/zenodo.3269786]
 Published in APL Photonics Special issue "Optoacoustics—Advances in high-frequency optomechanics and Brillouin scattering" - DOI: 10.1063/1.5088169
 Gustavo Wiederhecker (1,2)
 Paulo Dainese  (1,2,3)
