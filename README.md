@@ -1,5 +1,5 @@
 # Brillouin-Optomechanics-Tutorial
-This repository was created to share the slides I presented at the [https://indico.mpl.mpg.de/event/13/page/20-4th-workshop-on-optomechanics-and-brillouin-scattering]( 4th WOMBAT (Workshop on Brillouin and Optomechanics)), held at the Max Planck Institute for the Science of Ligh in Erlangen, Germany.
+This repository was created to share the slides I presented at the tutorial talk at the [https://indico.mpl.mpg.de/event/13/page/20-4th-workshop-on-optomechanics-and-brillouin-scattering]( 4th WOMBAT (Workshop on Brillouin and Optomechanics)), held at the Max Planck Institute for the Science of Ligh in Erlangen, Germany.
 
 
 Data and simulations files for the tutorial article "Brillouin optomechanics in nanophotonic structures".
