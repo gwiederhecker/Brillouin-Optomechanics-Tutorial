@@ -4,7 +4,7 @@ This repository was created to share the slides I presented at the [https://indi
 
 Data and simulations files for the tutorial article "Brillouin optomechanics in nanophotonic structures".
 Check out the Zenodo repository: [http://www.doi.org/10.5281/zenodo.3269786]
-Published in APL Photonics Special issue "Optoacoustics—Advances in high-frequency optomechanics and Brillouin scattering" - DOI: 10.1063/1.5088169
+Published in APL Photonics Special issue "Optoacoustics—Advances in high-frequency optomechanics and Brillouin scattering" - DOI: [http://www.doi.org/10.1063/1.5088169]
 Gustavo Wiederhecker (1,2)
 Paulo Dainese  (1,2,3)
 Thiago P. Mayer Alegre (1,2)
